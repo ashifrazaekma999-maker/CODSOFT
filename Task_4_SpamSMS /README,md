@@ -1,0 +1,6 @@
+CODSOFT Machine Learning Internship
+Task Name: Spam SMS Detection
+Objective:
+To classify SMS messages as spam or ham using Machine Learning.
+Algorithm:
+Naive Bayes
